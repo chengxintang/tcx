@@ -3,5 +3,5 @@
 #include <stdio.h>
 void main()
 {
-printf("唐程欣 is definitely a handsome guy");
+printf("淡黄的长裙，蓬松的头发");
 }
